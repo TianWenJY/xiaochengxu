@@ -1,5 +1,6 @@
 {
   "pages": [
+    "components/like/like",
     "pages/classic/classic"
   ],
   "window": {
